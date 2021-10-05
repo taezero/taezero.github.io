@@ -7,7 +7,7 @@ tags:
   - testTag2
 sidebar:
   nav: "docs"
-permalink: /docs/test/
+permalink: /testdocs/test/
 last_modified_at: 2021-10-06T15:19:22-04:00
 ---
 
