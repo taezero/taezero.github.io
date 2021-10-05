@@ -10,3 +10,14 @@ main:
   #   url: /collection-archive/
    - title: "Sitemap"
      url: /sitemap/
+docs:
+  - title: 2021년 2학기
+    children:
+      - title: "iOS 프로그래밍"
+        url: /docs/iosprograming/
+      #- title: "Structure"
+      #  url: /docs/structure/
+      #- title: "Installation"
+      #  url: /docs/installation/
+      #- title: "Upgrading"
+      #  url: /docs/upgrading/
