@@ -14,7 +14,7 @@ docs:
   - title: 2021년 2학기
     children:
       - title: "iOS 프로그래밍"
-        url: /posts/test/
+        url: /testdocs/test/
       #- title: "Structure"
       #  url: /docs/structure/
       #- title: "Installation"
