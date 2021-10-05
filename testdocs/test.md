@@ -7,6 +7,8 @@ tags:
   - testTag2
 sidebar:
   nav: "docs"
+permalink: /docs/test/
+last_modified_at: 2021-10-06T15:19:22-04:00
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
